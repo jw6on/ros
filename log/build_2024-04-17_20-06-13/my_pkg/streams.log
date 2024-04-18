@@ -1,0 +1,31 @@
+[0.477s] Invoking command in '/home/jeongjiwon/busan_ws/build/my_pkg': PYTHONPATH=/home/jeongjiwon/busan_ws/build/my_pkg/prefix_override:/home/jeongjiwon/busan_ws/install/my_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jeongjiwon/busan_ws/build/my_pkg/build --no-deps symlink_data
+[0.615s] running develop
+[0.701s] running egg_info
+[0.701s] creating my_pkg.egg-info
+[0.701s] writing my_pkg.egg-info/PKG-INFO
+[0.701s] writing dependency_links to my_pkg.egg-info/dependency_links.txt
+[0.701s] writing entry points to my_pkg.egg-info/entry_points.txt
+[0.701s] writing requirements to my_pkg.egg-info/requires.txt
+[0.701s] writing top-level names to my_pkg.egg-info/top_level.txt
+[0.702s] writing manifest file 'my_pkg.egg-info/SOURCES.txt'
+[0.719s] reading manifest file 'my_pkg.egg-info/SOURCES.txt'
+[0.719s] writing manifest file 'my_pkg.egg-info/SOURCES.txt'
+[0.737s] running build_ext
+[0.737s] Creating /home/jeongjiwon/busan_ws/install/my_pkg/lib/python3.8/site-packages/site.py
+[0.738s] Creating /home/jeongjiwon/busan_ws/install/my_pkg/lib/python3.8/site-packages/my-pkg.egg-link (link to .)
+[0.739s] Installing simplepub script to /home/jeongjiwon/busan_ws/install/my_pkg/lib/my_pkg
+[0.739s] Installing simplesub script to /home/jeongjiwon/busan_ws/install/my_pkg/lib/my_pkg
+[0.739s] Installing simpletimepub script to /home/jeongjiwon/busan_ws/install/my_pkg/lib/my_pkg
+[0.739s] Installing simpletimesub script to /home/jeongjiwon/busan_ws/install/my_pkg/lib/my_pkg
+[0.739s] 
+[0.739s] Installed /home/jeongjiwon/busan_ws/build/my_pkg
+[0.739s] running symlink_data
+[0.739s] creating /home/jeongjiwon/busan_ws/install/my_pkg/share/ament_index
+[0.739s] creating /home/jeongjiwon/busan_ws/install/my_pkg/share/ament_index/resource_index
+[0.739s] creating /home/jeongjiwon/busan_ws/install/my_pkg/share/ament_index/resource_index/packages
+[0.739s] symbolically linking /home/jeongjiwon/busan_ws/build/my_pkg/resource/my_pkg -> /home/jeongjiwon/busan_ws/install/my_pkg/share/ament_index/resource_index/packages
+[0.739s] symbolically linking /home/jeongjiwon/busan_ws/build/my_pkg/package.xml -> /home/jeongjiwon/busan_ws/install/my_pkg/share/my_pkg
+[0.739s] creating /home/jeongjiwon/busan_ws/install/my_pkg/share/my_pkg/launch
+[0.739s] symbolically linking /home/jeongjiwon/busan_ws/build/my_pkg/launch/allsimple.launch.py -> /home/jeongjiwon/busan_ws/install/my_pkg/share/my_pkg/launch
+[0.739s] symbolically linking /home/jeongjiwon/busan_ws/build/my_pkg/launch/simpleTime.launch.py -> /home/jeongjiwon/busan_ws/install/my_pkg/share/my_pkg/launch
+[0.762s] Invoked command in '/home/jeongjiwon/busan_ws/build/my_pkg' returned '0': PYTHONPATH=/home/jeongjiwon/busan_ws/build/my_pkg/prefix_override:/home/jeongjiwon/busan_ws/install/my_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/jeongjiwon/busan_ws/build/my_pkg/build --no-deps symlink_data

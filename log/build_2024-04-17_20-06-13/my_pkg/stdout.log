@@ -1,0 +1,29 @@
+running develop
+running egg_info
+creating my_pkg.egg-info
+writing my_pkg.egg-info/PKG-INFO
+writing dependency_links to my_pkg.egg-info/dependency_links.txt
+writing entry points to my_pkg.egg-info/entry_points.txt
+writing requirements to my_pkg.egg-info/requires.txt
+writing top-level names to my_pkg.egg-info/top_level.txt
+writing manifest file 'my_pkg.egg-info/SOURCES.txt'
+reading manifest file 'my_pkg.egg-info/SOURCES.txt'
+writing manifest file 'my_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jeongjiwon/busan_ws/install/my_pkg/lib/python3.8/site-packages/site.py
+Creating /home/jeongjiwon/busan_ws/install/my_pkg/lib/python3.8/site-packages/my-pkg.egg-link (link to .)
+Installing simplepub script to /home/jeongjiwon/busan_ws/install/my_pkg/lib/my_pkg
+Installing simplesub script to /home/jeongjiwon/busan_ws/install/my_pkg/lib/my_pkg
+Installing simpletimepub script to /home/jeongjiwon/busan_ws/install/my_pkg/lib/my_pkg
+Installing simpletimesub script to /home/jeongjiwon/busan_ws/install/my_pkg/lib/my_pkg
+
+Installed /home/jeongjiwon/busan_ws/build/my_pkg
+running symlink_data
+creating /home/jeongjiwon/busan_ws/install/my_pkg/share/ament_index
+creating /home/jeongjiwon/busan_ws/install/my_pkg/share/ament_index/resource_index
+creating /home/jeongjiwon/busan_ws/install/my_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/jeongjiwon/busan_ws/build/my_pkg/resource/my_pkg -> /home/jeongjiwon/busan_ws/install/my_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/jeongjiwon/busan_ws/build/my_pkg/package.xml -> /home/jeongjiwon/busan_ws/install/my_pkg/share/my_pkg
+creating /home/jeongjiwon/busan_ws/install/my_pkg/share/my_pkg/launch
+symbolically linking /home/jeongjiwon/busan_ws/build/my_pkg/launch/allsimple.launch.py -> /home/jeongjiwon/busan_ws/install/my_pkg/share/my_pkg/launch
+symbolically linking /home/jeongjiwon/busan_ws/build/my_pkg/launch/simpleTime.launch.py -> /home/jeongjiwon/busan_ws/install/my_pkg/share/my_pkg/launch
